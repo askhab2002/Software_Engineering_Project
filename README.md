@@ -11,5 +11,6 @@
 <br/> install.packages("rusquant")
 <br/> install.packages("fPortfolio")
 <br/> install.packages("BVAR")
+<br/> install.packages("xts").
 2. Потом в коде нужно поменять расположение файла data в 201 строчке кода server на местное (см скрин).
 3. Приложение запускается из RStudio кнопкой Run App или командой в консоль runApp(*расположение папки*/Наше приложение).

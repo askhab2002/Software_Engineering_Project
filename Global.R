@@ -8,6 +8,8 @@
 # install.packages("rusquant")
 # install.packages("fPortfolio")
 # install.packages("BVAR")
+# install.packages("xts")
+
 
 library(shiny)
 library(bslib)
