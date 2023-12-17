@@ -1,6 +1,5 @@
 # Software_Engineering_Project
-<<<<<<< HEAD
-=======
+
 
 1. Сначала в консоли один раз запускается установка пакетов:
 install.packages("shiny")
@@ -13,4 +12,3 @@ install.packages("fPortfolio")
 install.packages("BVAR")
 2. Потом в коде нужно поменять расположение файла data в 201 строчке кода server на местное (см скрин)
 3. Приложение запускается из RStudio кнопкой Run App или командой в консоль runApp(*расположение папки*/Наше приложение)
->>>>>>> cb24a05bf57331791cced2e45bf772d9b407c6be
