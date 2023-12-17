@@ -3,7 +3,7 @@
 Создатели: Приходко Макар, Полозов Иван, Сулейманов Асхаб, Вербий Гордей
 
 1. Сначала в консоли один раз запускается установка пакетов:
-install.packages("shiny")
+<br/> install.packages("shiny")
 install.packages("bslib")
 install.packages("shinymanager")
 install.packages("thematic")
